@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235521750223",
+    "project_id": "messengerplus-df99f",
+    "storage_bucket": "messengerplus-df99f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235521750223:android:8195e7d40de36aee1d73ba",
+        "android_client_info": {
+          "package_name": "com.vr.messenger_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235521750223-0fb23vcc1t13tlq67qb2q7cep3pfrbup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQP_jmBhRgbB3yFaeEjbFWmrVin6NX5PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235521750223-0fb23vcc1t13tlq67qb2q7cep3pfrbup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
